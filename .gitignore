@@ -1,0 +1,14 @@
+# .gitignore File
+# This file specifies which files and directories should not be versioned
+# to keep unnecessary or sensitive data out of the repository.
+
+# Ignore .DS_Store files
+# .DS_Store is a hidden file created by macOS to store metadata about a folder
+# (such as icon arrangement). This file is not needed for version control and can be safely ignored.
+.DS_Store
+
+# Ignore the .obsidian directory
+# The .obsidian directory is created by the note-taking app "Obsidian"
+# to store project-specific configuration files. These configuration files
+# are usually local and should not be included in the repository.
+.obsidian/
