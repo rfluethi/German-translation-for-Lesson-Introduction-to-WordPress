@@ -1,14 +1,34 @@
 # Storyboard
 
+## Additional material
+
+### 00-01 Thumbnail
+
+<img src="images/00-01-Thumbnail.webp" width="300">
+
+Created using the Thumbnail Generator, based on the original English version thumbnail.
+Further information about the Thumbnail Generator can be found on the [Video Thumbnail Generator](https://make.wordpress.org/design/handbook/resources/figma-thumbnail-generator/) website.
+
+- [Original image](../src/assets/00-01-Thumbnail.png)
+ 
 ## Chapter 01 Intro
 
-### Scene 01-00 Thumbnail
-
-<img src="../src/Scene-01-01-Start-original.webp" width="300">
-
-- [Orignal storyboard](../../en/video-descriptions/storyboard.md#scene-01-01-thumnail)
+> Duration: 0:00:00;00 - 0:00:15;00
 
 ### Scene 01-01 Start
+
+<img src="images/Scene-01-01-Start.webp" width="300">
+
+> Duration: 0:00:00;00 - 0:00:17;24
+
+An animation of the thumbnail image to indicate the video is starting and to welcome the participants.
+
+- [Scene-01-01-Start-background.png](../src/assets/Scene-01-01-Start-background.png)
+- [Scene-01-01-Start-lines.png](../src/assets/Scene-01-01-Start-lines.png)
+- [Scene-01-01-Start-text.png](../src/assets/Scene-01-01-Start-text.png)
+- [Scene-01-01-Start-toolbar.png](../src/assets/Scene-01-01-Start-toolbar.png)
+- [Scene-01-01-Start-wordpress.png](../src/assets/Scene-01-01-Start-wordpress.png)
+
 
 <img src="../src/Scene-01-01-Start-slide-original.webp" width="300">
 
