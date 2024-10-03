@@ -6,89 +6,35 @@
 
 <img src="images/00-01-Thumbnail.webp" width="300">
 
-Created using the Thumbnail Generator, based on the original English version thumbnail.
-Further information about the Thumbnail Generator can be found on the [Video Thumbnail Generator](https://make.wordpress.org/design/handbook/resources/figma-thumbnail-generator/) website.
-
-**Image:**
-
-- [Original image](../src/assets/00-01-Thumbnail.png)
- 
-## Chapter 01 Intro
-
-> Duration: 0:00:00;00 - 0:00:18;17
+## Chapter 01: Einführung in WordPress / *Introduction to WordPress*
 
 ### Scene 01-01 Start
 
 <img src="images/Scene-01-01-Start.webp" width="300">
 
-> Duration: 0:00:00;00 - 0:00:07;23
-
 An animation of the thumbnail image to indicate the video is starting and to welcome the participants.
-
-**Assets:**
-
-- [Scene-01-01-Start-background.png](../src/assets/Scene-01-01-Start-background.png)
-- [Scene-01-01-Start-lines.png](../src/assets/Scene-01-01-Start-lines.png)
-- [Scene-01-01-Start-text.png](../src/assets/Scene-01-01-Start-text.png)
-- [Scene-01-01-Start-toolbar.png](../src/assets/Scene-01-01-Start-toolbar.png)
-- [Scene-01-01-Start-wordpress.png](../src/assets/Scene-01-01-Start-wordpress.png)
 
 ### Scene 01-02 Bulb
 
 <img src="images/Scene-01-02-Bulb.webp" width="300">
 
-> Duration: 0:00:07;24 - 0:00:18;17
-
 An animation of a light bulb to illustrate the goal of the lesson.
 
-**Image License:**
-- Light Bulb & Arrows [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en)
-- WordPress Logo see: [Trademark Policy – WordPress Foundation](https://wordpressfoundation.org/trademark-policy/)
-
-**Assets:**
-
-- [Scene-01-02-Bulb.pdf](../src/assets/Scene-01-02-Bulb.pdf)
-
-
-## Chapter 02 Learning Outcomes
-
-> Duration: 0:00:18;17 - 0:00:42;18
+## Chapter 02: Lernziele / *Learning objectives**
 
 ### Scene 02-01 Learning outcomes
 
 <img src="images/Scene-02-01-Learning-outcomes.webp" width="300">
 
-> Duration: 0:00:18;17 - 0:00:42;19
-
 An animation to introduce the chapters of the lesson.
 
-**Image License:**
-
-- WordPress Logo see: [Trademark Policy – WordPress Foundation](https://wordpressfoundation.org/trademark-policy/)
-- Everything else [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en)
-
-**Assets:**
-
-- [Scene-02-01-Learning-outcomes.pdf](../src/assets/Scene-02-01-Learning-outcomes.pdf)
-
-## Chapter 03 What is WordPress
-
-> Duration: 0:00:42;20 - 0:01:58;29
+## Chapter 03: Was ist WordPress? / *What is WordPress?*
 
 ### Scene 03-01 Define WordPress
 
 <img src="images/Scene-03-01-Define-WordPress.webp" width="300">
 
-> Duration: 0:00:42;20 - 0:00:49;07
-
-**Image License:**
-
-- WordPress Logo see: [Trademark Policy – WordPress Foundation](https://wordpressfoundation.org/trademark-policy/)
-- Everything else [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en)
-
-**Assets:**
-
-- See: [Scene-02-01-Learning-outcomes.pdf](../src/assets/Scene-02-01-Learning-outcomes.pdf)
+Animation for the 'Define WordPress' Chapter.
 
 ### Scene 03-02 Hartlerdairy
 
@@ -96,172 +42,194 @@ An animation to introduce the chapters of the lesson.
 
 <img src="images/Scene-03-02-Hartlerdairy-menu.webp" width="300">
 
-> Duration: 0:00:49;08 - 0:00:53;08
-
-**Image License:**
-
-- Screenshots [Rachel Hartzler](https://www.hartzlerdairy.com)
-- Browser graphic [CC0](https://creativecommons.org/publicdomain/zero/1.0/deed.en)
-
-**Assets:**
-
-- [Scene-03-02-Hartlerdairy.pdf](../src/assets/Scene-03-02-Hartlerdairy.pdf)
-- [Scene-03-02-Hartlerdairy-front.webp](../src/assets/Scene-03-02-Hartlerdairy-front.webp)
-- [Scene-03-02-Hartlerdairy-menu.webp](../src/assets/Scene-03-02-Hartlerdairy-menu.webp)
-- [Scene-03-02-Hartlerdairy-browser.webp](../src/assets/Scene-03-02-Hartlerdairy-browser.webp)
+A brief animation showcases the first example of a website, illustrated using the Hartzler Dairy website as an example. It vividly displays the homepage and the website's menu.
 
 ### Scene 03-03 TechCrunch
 
-> Duration: 0:00:53;08 - 0:00:53;08
+<img src="images/Scene-03-03-TechCrunch.webp" width="300">
 
---- **English** ---
---- **Translation** ---
-
-### Scene - Oh She Glows
-
---- **English** ---
---- **Translation** ---
+An animation demonstrating scrolling through the TechCrunch website serves as an example of a blog site.
 
 ### Scene 03-04 Crack Magazine
 
---- **English** ---
---- **Translation** ---
+<img src="images/Scene-03-04-Crack-Magazine.webp" width="300">
+
+"Crack Magazine" as the first static example of a website, demonstrating the diverse capabilities of WordPress.
 
 ### Scene 03-05 No Man’s Sky
 
---- **English** ---
---- **Translation** ---
+<img src="images/Scene-03-05-No-Mans-Sky.webp" width="300">
+
+"No Man's Sky" as the second static example of a website, demonstrating the diverse capabilities of WordPress.
 
 ### Scene 03-06 Rolling Stone
 
---- **English** ---
---- **Translation** ---
+<img src="images/Scene-03-06-Rolling-Stone.webp" width="300">
+
+"Rolling Stone" as the third static example of a website, demonstrating the diverse capabilities of WordPress.
 
 ### Scene 03-07 NASA
 
---- **English** ---
---- **Translation** ---
+<img src="images/Scene-03-07-NASA.webp" width="300">
 
-## Chapter 04 WordPress as a Content Management System (CMS)
+“NASA” is an animation of static websites as the fourth example of a website that demonstrates the diverse possibilities of WordPress. In addition, the pages “The Walt Disney Company” and “Meta Newsroom” are shown, which are mentioned as examples in the spoken text.
+
+## Chapter 04: WordPress als Content-Management-System (CMS) / *WordPress as a Content Management System (CMS)*
 
 ### Scene 04-01 CMS
 
---- **English** ---
---- **Translation** ---
+<img src="images/Scene-04-01-CMS.webp" width="300">
+
+Animation for the 'Content Management System' Chapter.
 
 ### Scene 04-02 Dashboard
 
---- **English** ---
---- **Translation** ---
+<img src="images/Scene-04-02-Dashboard.webp" width="300">
+
+Introduction to the demonstration of the 'Extreme Photography' website through the WordPress dashboard, to showcase the extensive capabilities of WordPress.
 
 ### Scene 04-03 Extreme photography
 
---- **English** ---
---- **Translation** ---
+<img src="images/Scene-04-03-Extream-photography.webp" width="300">
+
+Video of the 'Extreme Photography' website, demonstrating the extensive capabilities of WordPress.
 
 ### Scene 04-04 Business to Entrepreneur
 
---- **English** ---
---- **Translation** ---
+<img src="images/Scene-04-04-Business-owner-to-Entrepreneur-wordpress-background.webp" width="300">
 
-### Scene 04-05 Showcase
+<img src="images/Scene-04-04-Business-owner-to-Entrepreneur.webp" width="300">
 
---- **English** ---
---- **Translation** ---
+<img src="images/Scene-04-04-Business-owner-to-Entrepreneur-wordpress-front.webp" width="300">
 
-## Chapter 05 Examples of WordPress Websites
+An animation sequence that displays three videos to demonstrate the diversity of WordPress websites.
 
-### Scene 05-01 Our journey
+### Scene 04-05 Our journey
 
---- **English** ---
---- **Translation** ---
+<img src="images/Scene-04-05-Our-journey.webp" width="300">
 
-### Scene 05-02 Reliable
+A screenshot of the page "WordPress and the Journey to 40% of the Internet" to illustrate the popularity of WordPress.
 
---- **English** ---
---- **Translation** ---
+### Scene 04-06 Reliable
 
-### Scene 05-03 WordPress Logo
+<img src="images/Scene-04-06-Reliable.webp" width="300">
 
---- **English** ---
---- **Translation** ---
+Animation to illustrate that WordPress is reliable, secure, and sustainable.
 
-### Scene 05-04 Ballarat
+## Chapter 05: Beispiele für WordPress-Websites / *Examples of WordPress Websites*
 
---- **English** ---
---- **Translation** ---
+### Scene 05-01 Examples
 
-### Scene 05-05 Absolute Plumbing
+<img src="images/Scene-05-01-Examples.webp" width="300">
 
---- **English** ---
---- **Translation** ---
+Animation for the 'Examples of WordPress Websites' Chapter.
 
-### Scene 05-06 Minimalist baker
+### Scene 05-02 Ballarat
 
---- **English** ---
---- **Translation** ---
+<img src="images/Scene-05-02-Ballarat.webp" width="300">
 
-### Scene 05-07 Mrs. O
+Anmation of the Ballarat website as an example of a WordPress website.
 
-## Chapter 06 WordPress as Open Source
+### Scene 05-03 Absolute Plumbing
+
+<img src="images/Scene-05-03-Absolute-Plumbing.webp" width="300">
+
+An animation of the Absolute Plumbing website as an example of a WordPress website.
+
+### Scene 05-04 Minimalist baker
+
+<img src="images/Scene-05-04-Minimalist-Baker.webp" width="300">
+
+An animation of the Minimalist Baker website as an example of a WordPress website.
+
+The page was adapted from the original English learning module.
+
+### Scene 05-05 Mrs. O
+
+<img src="images/Scene-05-05-Mrs-O.webp" width="300">
+
+An animation of the Mrs. O website as an example of a WordPress website.
+
+## Chapter 06: WordPress ist Open Source / *WordPress is Open Source*
+
+### Scene 06-01 Open Source
+
+<img src="images/Scene-06-01-Open-Source.webp" width="300">
+
+Animation for the 'WordPress is Open Source' Chapter.
 
 ### Scene 06-02 Free
 
---- **English** ---
---- **Translation** ---
+<img src="images/Scene-06-02-Free.webp" width="300">
+
+An animation to illustrate that WordPress is free.
 
 ### Scene 06-03 Get WordPress
 
---- **English** ---
---- **Translation** ---
+<img src="images/Scene-06-03-Get-WordPress.webp" width="300">
 
-### Scene 06-04 Make WordPress
+A static page demonstrating how to download WordPress.
 
-## Chapter 07 Themes and Plugins
+### Scene 06-04 Make WordPress Menu
+
+<img src="images/Scene-06-04-Make-WordPress-Menu.webp" width="300">
+
+An animation that leads from the “Frontpage of WordPress” page to the “Make WordPress” page.
+
+### Scene 06-05 Make WordPress
+
+<img src="images/Scene-06-05-Make-WordPress.webp" width="300">
+
+An animation that presents the "Make WordPress" page and illustrates the diversity of the WordPress community.
+
+## Chapter 07: Themes and Plugins / *Themes and Plugins*
 
 ### Scene 07-01 Themes | Plugins
 
---- **English** ---
---- **Translation** ---
+<img src="images/Scene-07-01-Themes-Plugins.webp" width="300">
+
+Animation for the 'Themes and Plugins' Chapter.
 
 ### Scene 07-02 Themes
 
---- **English** ---
---- **Translation** ---
+<img src="images/Scene-07-02-Themes.webp" width="300">
+
+An animation showcasing the "Themes" page of WordPress, presenting the wide variety of themes available for selection.
 
 ### Scene 07-03 Plugins
 
---- **English** ---
---- **Translation** ---
+<img src="images/Scene-07-03-Plugins.webp" width="300">
 
-### Scene 07-04 Site Editor
+An animation showcasing the "Plugins" page of WordPress, presenting the wide variety of plugins available for selection.
 
---- **English** ---
---- **Translation** ---
+## Chapter 08: Zusammenfassung und Ausblick / *Summary and Outro*
 
-### Scene 07-06 Everyone
+### Scene 08-01 Summary
 
---- **English** ---
---- **Translation** ---
+<img src="images/Scene-08-01-Summary.webp" width="300">
 
-## Chapter 08 Next Steps (original)
-## Chapter 08 Next Steps (new)
+Static page summarizing the content of the learning module.
 
-### Scene 08-01 Question
+### Scene 08-02 Question
 
---- **English** ---
---- **Translation** ---
+<img src="images/Scene-08-02-Question.webp" width="300">
 
-### Scene-08-02-01-N-Learn-WordPress
+An animation that poses a question to the viewer.
 
---- **English** ---
---- **Translation** ---
+### Scene 08-03 Learn.WordPress.org Click
 
-### Scene-08-02-N-1-Learn-WordPress
+<img src="images/Scene-08-03-Learn-WordPress-org-Click.webp" width="300">
 
---- **English** ---
---- **Translation** ---
+An animation that prominently displays the URL of Learn.WordPress.org.
 
-## Chapter 09 Outro
+### Scene 08-03 Learn.WordPress.org Website
 
-### Scene-09-01-Learn-WordPress-org
+<img src="images/Scene-08-03-Learn-WordPress-org-Website.webp" width="300">
+
+A static page that displays the Learn.WordPress.org website.
+
+### Scene 08-04 Outro
+
+<img src="images/Scene-08-04-Outro.webp" width="300">
+
+An animation in which the training team wishes learners much success and emphasizes how pleased they are to accompany learners on their educational journey.

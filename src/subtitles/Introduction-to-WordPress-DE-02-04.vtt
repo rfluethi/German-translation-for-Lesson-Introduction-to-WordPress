@@ -1,0 +1,194 @@
+WEBVTT
+
+00:00:00.937 --> 00:00:06.977
+Herzlich willkommen zu dieser Einführung in WordPress, eine Produktion von learn.wordpress.org.
+
+00:00:07.857 --> 00:00:12.097
+In dieser Lektion werden wir uns die Grundlagen ansehen, damit du ein gutes
+
+00:00:12.097 --> 00:00:15.517
+Verständnis dafür bekommst, was sich mit WordPress erreichen lässt,
+
+00:00:15.717 --> 00:00:17.837
+selbst wenn du noch ganz am Anfang bist.
+
+00:00:18.577 --> 00:00:24.057
+Folgende Themen werden wir in dieser Lektion behandeln. Wir schauen uns an, was WordPress ist.
+
+00:00:24.257 --> 00:00:28.977
+Lass uns erkunden, was ein Content Management System ist. Gemeinsam sehen wir
+
+00:00:28.977 --> 00:00:33.797
+uns Beispiele dafür an, welche Arten von Webseiten wir mit WordPress erstellen können.
+
+00:00:34.117 --> 00:00:36.997
+Wir klären gemeinsam, was Open Source bedeutet.
+
+00:00:37.597 --> 00:00:41.537
+Zum Schluss werfen wir zusammen einen kurzen Blick auf Themes und Plugins.
+
+00:00:43.917 --> 00:00:46.077
+Aber was ist WordPress eigentlich?
+
+00:00:48.657 --> 00:00:52.857
+Im Kern ermöglicht dir WordPress, deine eigene Website zu erstellen.
+
+00:00:54.037 --> 00:00:55.917
+Oder einen Blog zu schreiben.
+
+00:01:00.651 --> 00:01:05.091
+Millionen von Websites wurden mit WordPress erstellt, von Online-Shops und kleinen
+
+00:01:05.091 --> 00:01:10.351
+Unternehmen bis hin zu bekannten Namen wie der NASA, dem Meta-Newsroom und der Walt Disney Company.
+
+00:01:11.811 --> 00:01:16.511
+Aber zunächst einmal, WordPress ist ein CMS, also ein Content Management System.
+
+00:01:18.451 --> 00:01:22.011
+Kurz gesagt, es ist ein kostenloses Tool, das dir ermöglicht,
+
+00:01:22.051 --> 00:01:26.731
+deine eigene Website oder deinen Blog zu erstellen, zu bearbeiten und zu verwalten.
+
+00:01:26.731 --> 00:01:28.971
+Ganz ohne Programmierkenntnisse.
+
+00:01:29.171 --> 00:01:33.871
+Egal, ob du eine private Webseite erstellen möchtest, einen umfassenden Blog
+
+00:01:33.871 --> 00:01:37.451
+planst oder Produkte und Dienstleistungen weltweit verkaufen willst.
+
+00:01:38.231 --> 00:01:42.091
+WordPress bietet die perfekte Plattform, um deine Ziele zu verwirklichen und
+
+00:01:42.091 --> 00:01:43.951
+deine Inhalte mit der Welt zu teilen.
+
+00:01:45.231 --> 00:01:50.151
+Wusstest du, dass über 40% aller Websites weltweit mit WordPress erstellt wurden?
+
+00:01:51.771 --> 00:01:55.991
+Du kannst dir also sicher sein, dass WordPress eine sehr zuverlässige,
+
+00:01:56.011 --> 00:01:58.231
+sichere und nachhaltige Plattform ist.
+
+00:02:00.331 --> 00:02:04.671
+Lass uns ein paar Beispiele ansehen, um zu sehen, welche Arten von Websites
+
+00:02:04.671 --> 00:02:06.151
+mit WordPress erstellt wurden.
+
+00:02:06.971 --> 00:02:12.451
+Als erstes haben wir die Art Gallery of Ballarat, eine Galerie in Australien.
+
+00:02:13.411 --> 00:02:17.931
+Sie haben eine umfangreiche Sammlung von Kunstwerken, regelmäßige Ausstellungen
+
+00:02:17.931 --> 00:02:21.291
+und zudem Schmuck, Geschenke und Accessoires zu verkaufen.
+
+00:02:22.191 --> 00:02:26.491
+Das nächste Beispiel ist die Website eines Installationsunternehmens aus Kapstadt.
+
+00:02:26.731 --> 00:02:31.011
+Dort kannst du dich über die Dienstleistungen informieren, Erfahrungsberichte
+
+00:02:31.011 --> 00:02:36.171
+lesen und herausfinden, wo sich das Unternehmen befindet und wie du es kontaktieren kannst.
+
+00:02:37.911 --> 00:02:41.911
+Das dritte Beispiel ist ein Food-Blog namens Minimalist Baker,
+
+00:02:42.151 --> 00:02:47.191
+auf dem du einfache Rezepte findest, Küchenutensilien kaufen und mehr über Backen
+
+00:02:47.191 --> 00:02:48.271
+und Kochen lernen kannst.
+
+00:02:50.651 --> 00:02:55.071
+Das letzte Beispiel ist eine Website namens MSO Around the World.
+
+00:02:56.311 --> 00:03:00.211
+Es ist ein Luxus-Reiseblog, vollgepackt mit Reisetipps, Guides und vielem mehr.
+
+00:03:04.450 --> 00:03:08.990
+Ein weiterer wichtiger Punkt, WordPress ist Open Source. Das heißt,
+
+00:03:09.130 --> 00:03:13.190
+es ist eine kostenlose Software, die jeder herunterladen und nutzen kann.
+
+00:03:14.070 --> 00:03:18.190
+Das bedeutet auch, dass jeder am Code oder in anderen Bereichen von WordPress
+
+00:03:18.190 --> 00:03:20.470
+mitarbeiten kann, um es zu verbessern.
+
+00:03:23.590 --> 00:03:25.590
+Du kannst also auch mitmachen.
+
+00:03:28.210 --> 00:03:32.070
+Zwei wichtige Dinge solltest du im Blick haben, wenn du deine WordPress-Seite
+
+00:03:32.070 --> 00:03:33.710
+erstellst, Themes und Plugins.
+
+00:03:34.450 --> 00:03:38.750
+Du benötigst ein Theme, das das Design und die Wirkung deiner Website bestimmt.
+
+00:03:39.510 --> 00:03:43.390
+Es stehen dir tausende von kostenlosen und Premium-Themes zur Auswahl.
+
+00:03:45.270 --> 00:03:49.950
+Außerdem kannst du mit WordPress Plugins installieren, um deiner Website zusätzliche
+
+00:03:49.950 --> 00:03:51.530
+Funktionen hinzuzufügen.
+
+00:03:52.130 --> 00:03:57.250
+Plugins sind nützlich, wenn du Produkte verkaufen, die Sicherheit oder Geschwindigkeit
+
+00:03:57.250 --> 00:04:00.790
+deiner Website verbessern oder Formulare hinzufügen möchtest.
+
+00:04:01.790 --> 00:04:05.870
+Denke daran, dass die hier vorgestellten Themes und Plug-ins nur Beispiele sind.
+
+00:04:08.190 --> 00:04:11.990
+Zusammenfassend lässt sich sagen, mit WordPress kannst du ganz ohne technische
+
+00:04:11.990 --> 00:04:13.870
+Vorkenntnisse eine Website erstellen.
+
+00:04:14.130 --> 00:04:18.870
+Es bietet viele Funktionen, ist kostenlos und lässt sich individuell anpassen.
+
+00:04:19.230 --> 00:04:20.910
+Perfekt für jeden Einsatzzweck.
+
+00:04:21.970 --> 00:04:25.850
+Du fragst dich jetzt sicher, wie du ganz einfach deine Webseite mit WordPress
+
+00:04:25.850 --> 00:04:29.310
+erstellst und ins Internet bringst, damit sie jeder sehen kann.
+
+00:04:30.230 --> 00:04:32.890
+Auch dafür haben wir eine Lösung für dich.
+
+00:04:33.910 --> 00:04:38.710
+Auf unserer Seite learn.wordpress.org findest du ein umfassendes Angebot,
+
+00:04:38.730 --> 00:04:41.330
+das dir das und vieles mehr Schritt für Schritt erklärt.
+
+00:04:41.950 --> 00:04:46.790
+Also, fang einfach an und mach dich zum WordPress-Profi. Wir vom Schulungsteam
+
+00:04:46.790 --> 00:04:49.810
+von WordPress wünschen dir viel Erfolg und freuen uns darauf,
+
+00:04:49.990 --> 00:04:51.470
+dich auf deinem Weg zu begleiten.
+
