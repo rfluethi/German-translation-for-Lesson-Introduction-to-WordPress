@@ -1,6 +1,6 @@
 # German Translation and Redesign of 'Introduction to WordPress' Lesson.
 
-Welcome to the repository for the German translation and redesign of the "Introduction to WordPress" lesson. This project is dedicated to enhancing accessibility to WordPress learning resources for German-speaking audiences by providing translated and culturally adapted content. As part of the [Open Educational Resources (OER)](https://en.wikipedia.org/wiki/Open_educational_resources) initiative, this repository ensures that educational materials are freely available and adaptable, promoting lifelong learning and knowledge sharing.
+Welcome to the repository for the German translation and redesign of the "Introduction to WordPress" lesson. This project is dedicated to enhancing accessibility to WordPress learning resources for German-speaking audiences by providing translated and culturally adapted content. As part of the [Open Educational Resources (OER)](https://en.wikipedia.org/wiki/Open_educational_resources) initiative, this repository ensures that educational materials are freely available and adaptable, promoting lifelong learning and knowledge sharing. 
 
 By leveraging the power of [WordPress](https://wordpress.org/) as an open-source community, this project not only facilitates the dissemination of knowledge but also empowers individuals to contribute and improve the content collaboratively. The open-source nature of this repository guarantees that changes and updates can be independently verified and implemented by anyone, ensuring the content remains relevant and up-to-date. This collaborative approach embodies the spirit of open-source and OER, fostering a community-driven effort to make education more inclusive and universally accessible.
 
@@ -13,7 +13,7 @@ By leveraging the power of [WordPress](https://wordpress.org/) as an open-source
     - [German](#german)
   - [Documents](#documents)
     - [Storyboard](#storyboard)
-    - [Audio Script](#audio-script)
+    - [Text Materials](#text-materials)
   - [Subtitles](#subtitles)
     - [Quiz](#quiz)
     - [Shot List](#shot-list)
@@ -46,9 +46,9 @@ Documents for the German translation and redesign of the learning materials.
 
 The [Storyboard](docs/storyboard.md) provides a visual representation of the educational video. It includes a detailed sequence of scenes and outlines the entire flow of the video. It serves as a fundamental guide and starting point for the entire production.
 
-### Audio Script
+### Text Materials
 
-The [Audio Script](docs/audioscript.md) contains the complete text of the educational video. It includes all spoken passages and the transcript that can be heard in the video.
+The [Text Materials](docs/text-materials.md) file contains the complete transcript of the educational video, including all spoken passages. Additionally, it includes other related texts that are part of this project. The quiz texts are stored in a separate file, [quiz.md](docs/quiz.md).
 
 ## Subtitles
 
@@ -65,35 +65,38 @@ The [Quiz](docs/quiz.md) contains a series of questions related to the content o
 
 The [Shot List](docs/shotlist.md) is a detailed listing of all scenes and shots in the educational video. It includes references to the media resources used, notes on the corresponding licenses, as well as all timing and editing marks.
 
+
+
 ## Repository Structure
 
+```plaintext
 /repository-root
 │
-├── /docs/              # Documentation of the learning materials
-│   ├── /images/        # Directory for images used in the documentation
-│   ├── audioscript.md  # Documentation of the text and dialogues of the educational video
-│   ├── shotlist.md     # Detailed documentation of the scenes and files used in the production
-│   └── storyboard.md   # A visual outline of the scenes and sequences in the video
+├── /docs/                # Documentation of the learning materials
+│   ├── /images/          # Directory for images used in the documentation
+│   ├── quiz.md           # The quiz questions associated with this project
+│   ├── shotlist.md       # Detailed documentation of the scenes and files used in the production
+│   ├── storyboard.md     # A visual outline of the scenes and sequences in the video
+│   └── text-materials.md # Texts and dialogs of the learning materials
 │
-├── /src/               # Directory for working files used in creating the learning materials
-│   ├── /assets/        # Directory for images, icons, etc.
-│   ├── /audio/         # Directory for audio files used in the video
-│   ├── /voices/        # Directory for spoken texts for the educational video
-│   └── /subtitles/     # Directory for subtitle files for the educational video
+├── /src/                 # Directory for working files used in creating the learning materials
+│   ├── /assets/          # Directory for images, icons, etc.
+│   ├── /audio/           # Directory for audio files used in the video
+│   ├── /subtitles/       # Directory for subtitle files for the educational video
+│   └── /voices/          # Directory for voice recordings for the instructional video
 │
-├── /media/             # Media resources for the learning materials
-│   └── /video/         # Directory for video files
+├── /media/               # Media resources for the learning materials
+│   └── /video/           # Directory for video files
 │
-├── .gitignore          # Files or directories to be excluded from version control
-└── README.md           # This file
+├── .gitignore            # Files or directories to be excluded from version control
+└── README.md             # This file
+```
 
 ## Video
-Version 20-04 / Introduction-to-WordPress-DE-02-04.mp4
+Current version of the video, which has been uploaded here and can be found in the [media/video/](media/video) directory.
 
+`Version 20-04 / Introduction-to-WordPress-DE-02-04.mp4`
 media/video/Introduction-to-WordPress-DE-02-04.mp4
-
-
-<video controls src="media/video/Introduction-to-WordPress-DE-02-04.mp4" title="Title"></video>
 
 ## Contributing
 

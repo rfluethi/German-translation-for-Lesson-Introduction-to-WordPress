@@ -1,14 +1,14 @@
-# Audioscript
+# Text Materials
 
 The audio script for the lesson "Introduction to WordPress" from learn.wordpress.org is available here. It is offered in two languages: English and German.
 
-A visual overview of the chapters and scenes can be found in the [Storyboard](storyboard.md). A list of all assets used, broken down by chapters and scenes, is available in the [Short List](shortlist.md). The translation of the quiz questions can be found under [Quiz](quiz.md).
+An overview of all documents and files related to this project can be found in the [README](../README.md) file.
 
 All timecodes are given in the audio timecode format `Hours:Minutes:Seconds.Milliseconds`.
 
 ## Table of Contents
 
-- [Audioscript](#audioscript)
+- [Text Materials](#text-materials)
   - [Table of Contents](#table-of-contents)
   - [Excerpt](#excerpt)
     - [Learn.Wordpress.org](#learnwordpressorg)
@@ -120,7 +120,7 @@ Additionally, you can install plugins with WordPress to add extra functionality 
 
 In summary, with WordPress, you can create a website without any technical knowledge. It offers many features, is free, and can be customized. Perfect for any purpose.
 
-You might be wondering how to create your website easily with WordPress and get it online for everyone to see. We have a solution for that too.
+You might be wondering how to create your website easily with WordPress and get it online for everyone to see." We have a solution for that too."
 
 On our site learn.wordpress.org, you will find a comprehensive offering that explains this and much more step by step. So, just get started and become a WordPress pro. We from the WordPress training team wish you much success and look forward to accompanying you on your journey.
 
