@@ -96,7 +96,8 @@ The [Shot List](docs/shotlist.md) is a detailed listing of all scenes and shots 
 Current version of the video, which has been uploaded here and can be found in the [media/video/](media/video) directory.
 
 `Version 20-04 / Introduction-to-WordPress-DE-02-04.mp4`
-media/video/Introduction-to-WordPress-DE-02-04.mp4
+
+https://github.com/user-attachments/assets/de299999-30da-4540-81cd-d85c8cb5caec
 
 ## Contributing
 

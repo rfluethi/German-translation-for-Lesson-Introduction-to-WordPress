@@ -4,7 +4,18 @@ This list is a detailed list of all scenes and shots in the instructional video.
 
 An overview of all documents and files related to this project can be found in the [README](../README.md) file.
 
-All timecodes are given in the video timecode format `Hour:Minute:Second;Frame`.
+The timecodes are given in the Audio Timecode Format (ATF) "hours:minutes:seconds.milliseconds" or in the Video Timecode Format (VTF) "hours:minutes:seconds;frames". Unless otherwise specified, the Video Timecode Format (VTF) is used in this file.
+
+## Chapters
+
+- ATF = (00:00:00.000) VTF = (0:00:00;00) Chapter 01: Einführung in WordPress / *Introduction to WordPress*
+- ATF = (00:00:18.433) VTF = (0:00:18;22) Chapter 02: Lernziele / *Learning objectives*
+- ATF = (00:00:43.440) VTF = (0:00:42;20) Chapter 03: Was ist WordPress? / *What is WordPress?*
+- ATF = (00:01:11.564) VTF = (0:01:11;16) Chapter 04: WordPress als Content-Management-System (CMS) / *WordPress as a Content Management System (CMS)*
+- ATF = (00:01:58.935) VTF = (0:01:59;01) Chapter 05: Beispiele für WordPress-Websites / *Examples of WordPress Websites*
+- ATF = (00:03:03.655) VTF = (0:03:02;22) Chapter 06: WordPress ist Open Source / *WordPress is Open Source*
+- ATF = (00:03:27.849) VTF = (0:03:27;25) Chapter 07: Themes and Plugins / *Themes and Plugins*
+- ATF = (00:04:07.020) VTF = (0:04:07;05) Chapter 08: Zusammenfassung und Ausblick / *Summary and Outro*
 
 ## Additional material
 

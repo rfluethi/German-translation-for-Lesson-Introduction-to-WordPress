@@ -4,8 +4,6 @@ The audio script for the lesson "Introduction to WordPress" from learn.wordpress
 
 An overview of all documents and files related to this project can be found in the [README](../README.md) file.
 
-All timecodes are given in the audio timecode format `Hours:Minutes:Seconds.Milliseconds`.
-
 ## Table of Contents
 
 - [Text Materials](#text-materials)
@@ -47,14 +45,14 @@ Nutze das Potenzial von WordPress. Erfahre, was WordPress ist, sieh dir Beispiel
 
 ## Chapters
 
-00:00:00.000 Chapter 01: Einführung in WordPress / *Introduction to WordPress*
-00:00:18.433 Chapter 02: Lernziele / *Learning objectives*
-00:00:43.440 Chapter 03: Was ist WordPress? / *What is WordPress?*
-00:01:11.564 Chapter 04: WordPress als Content-Management-System (CMS) / *WordPress as a Content Management System (CMS)*
-00:01:58.935 Chapter 05: Beispiele für WordPress-Websites / *Examples of WordPress Websites*
-00:03:03.655 Chapter 06: WordPress ist Open Source / *WordPress is Open Source*
-00:03:27.849 Chapter 07: Themes and Plugins / *Themes and Plugins*
-00:04:07.020 Chapter 08: Zusammenfassung und Ausblick / *Summary and Outro*
+- Chapter 01: Einführung in WordPress / *Introduction to WordPress*
+- Chapter 02: Lernziele / *Learning objectives*
+- Chapter 03: Was ist WordPress? / *What is WordPress?*
+- Chapter 04: WordPress als Content-Management-System (CMS) / *WordPress as a Content Management System (CMS)*
+- Chapter 05: Beispiele für WordPress-Websites / *Examples of WordPress Websites*
+- Chapter 06: WordPress ist Open Source / *WordPress is Open Source*
+- Chapter 07: Themes and Plugins / *Themes and Plugins*
+- Chapter 08: Zusammenfassung und Ausblick / *Summary and Outro*
 
 ## Transcript (EN)
 
