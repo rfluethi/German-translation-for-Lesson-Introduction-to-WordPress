@@ -41,7 +41,15 @@ Chapter marker: 0:00:00;00
 
 **Voiceover:**
 
+License:
+The spoken text was created using [Soundly Voice Designer](https://getsoundly.com/). The licensing terms of the [Soundly EULA](https://getsoundly.com/assets/Soundly-EULA.pdf) must be observed.
+
 - [Chapter-01.mp3](../src/voices/Chapter-01.mp3)
+
+Voice Designer Settings:
+Presets: Audiobook Reader
+Language: German (Germany)
+Voice: Lukas B.
 
 ### Scene 01-01 Start
 
@@ -82,7 +90,15 @@ Chapter marker: 0:00:18;22
 
 **Voiceover:**
 
+License:
+The spoken text was created using [Soundly Voice Designer](https://getsoundly.com/). The licensing terms of the [Soundly EULA](https://getsoundly.com/assets/Soundly-EULA.pdf) must be observed.
+
 - [Chapter-02.mp3](../src/voices/Chapter-02.mp3)
+
+Voice Designer Settings:
+Presets: Audiobook Reader
+Language: German (Germany)
+Voice: Lukas B.
 
 ### Scene 02-01 Learning outcomes
 
@@ -130,7 +146,15 @@ Chapter marker: 0:00:42;20
 
 **Voiceover:**
 
+License:
+The spoken text was created using [Soundly Voice Designer](https://getsoundly.com/). The licensing terms of the [Soundly EULA](https://getsoundly.com/assets/Soundly-EULA.pdf) must be observed.
+
 - [Chapter-03.mp3](../src/voices/Chapter-03.mp3)
+
+Voice Designer Settings:
+Presets: Audiobook Reader
+Language: German (Germany)
+Voice: Lukas B.
 
 ### Scene 03-01 Define WordPress
 
@@ -317,7 +341,15 @@ At the end (0:01:58;27), blank backround: [background.png](../src/assets/backgro
 
 **Voiceover:**
 
+License:
+The spoken text was created using [Soundly Voice Designer](https://getsoundly.com/). The licensing terms of the [Soundly EULA](https://getsoundly.com/assets/Soundly-EULA.pdf) must be observed.
+
 - [Chapter-04.mp3](../src/voices/Chapter-04.mp3)
+
+Voice Designer Settings:
+Presets: Audiobook Reader
+Language: German (Germany)
+Voice: Lukas B.
 
 ### Scene 04-01 CMS
 
@@ -494,7 +526,15 @@ At the start (0:01:58;27 - 0:01:58;01), blank backround: [background.png](../src
 
 **Voiceover:**
 
+License:
+The spoken text was created using [Soundly Voice Designer](https://getsoundly.com/). The licensing terms of the [Soundly EULA](https://getsoundly.com/assets/Soundly-EULA.pdf) must be observed.
+
 - [Chapter-05.mp3](../src/voices/Chapter-05.mp3)
+
+Voice Designer Settings:
+Presets: Audiobook Reader
+Language: German (Germany)
+Voice: Lukas B.
 
 ### Scene 05-01 Examples
 
@@ -637,7 +677,15 @@ Chapter marker: 0:03:02;22
 
 **Voiceover:**
 
+License:
+The spoken text was created using [Soundly Voice Designer](https://getsoundly.com/). The licensing terms of the [Soundly EULA](https://getsoundly.com/assets/Soundly-EULA.pdf) must be observed.
+
 - [Chapter-06.mp3](../src/voices/Chapter-06.mp3)
+
+Voice Designer Settings:
+Presets: Audiobook Reader
+Language: German (Germany)
+Voice: Lukas B.
 
 ### Scene 06-01 Open Source
 
@@ -765,7 +813,15 @@ Caption marker: 0:03:27;25
 
 **Voiceover:**
 
+License:
+The spoken text was created using [Soundly Voice Designer](https://getsoundly.com/). The licensing terms of the [Soundly EULA](https://getsoundly.com/assets/Soundly-EULA.pdf) must be observed.
+
 - [Chapter-07.mp3](../src/voices/Chapter-07.mp3)
+
+Voice Designer Settings:
+Presets: Audiobook Reader
+Language: German (Germany)
+Voice: Lukas B.
 
 ### Scene 07-01 Themes | Plugins
 
@@ -861,7 +917,15 @@ Caption marker: 0:04:07;05
 
 **Voiceover:**
 
+License:
+The spoken text was created using [Soundly Voice Designer](https://getsoundly.com/). The licensing terms of the [Soundly EULA](https://getsoundly.com/assets/Soundly-EULA.pdf) must be observed.
+
 - [Chapter-08.mp3](../src/voices/Chapter-08.mp3)
+
+Voice Designer Settings:
+Presets: Audiobook Reader
+Language: German (Germany)
+Voice: Lukas B.
 
 ### Scene 08-01 Summary
 
