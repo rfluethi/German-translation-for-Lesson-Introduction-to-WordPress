@@ -99,6 +99,12 @@ Current version of the video, which has been uploaded here and can be found in t
 
 https://github.com/user-attachments/assets/de299999-30da-4540-81cd-d85c8cb5caec
 
+## Final version
+
+- [Einführung in WordPress | Learn WordPress](https://learn.wordpress.org/lesson/einfuhrung-in-wordpress/)
+- [Einführung in WordPress – WordPress.tv](https://wordpress.tv/2024/10/14/einfuhrung-in-wordpress/)
+- [Einführung in WordPress - YouTube](https://www.youtube.com/watch?v=acs7lfnFdg4)
+
 ## Contributing
 
 We welcome all forms of contribution! Whether you're interested in improving the translation, adapting the lesson for another language, or enhancing the video production, your input is valuable.
