@@ -44,7 +44,7 @@ Chapter marker: 0:00:00;00
 License:
 The spoken text was created using [Soundly Voice Designer](https://getsoundly.com/). The licensing terms of the [Soundly EULA](https://getsoundly.com/assets/Soundly-EULA.pdf) must be observed.
 
-- [Chapter-01.mp3](../src/voices/Chapter-01.mp3)
+- [Chapter-01.mp3](../src/voices/synthetic-voice/Chapter-01.mp3)
 
 Voice Designer Settings:
 Presets: Audiobook Reader
@@ -93,7 +93,7 @@ Chapter marker: 0:00:18;22
 License:
 The spoken text was created using [Soundly Voice Designer](https://getsoundly.com/). The licensing terms of the [Soundly EULA](https://getsoundly.com/assets/Soundly-EULA.pdf) must be observed.
 
-- [Chapter-02.mp3](../src/voices/Chapter-02.mp3)
+- [Chapter-02.mp3](../src/voices/synthetic-voice/Chapter-02.mp3)
 
 Voice Designer Settings:
 Presets: Audiobook Reader
@@ -149,7 +149,7 @@ Chapter marker: 0:00:42;20
 License:
 The spoken text was created using [Soundly Voice Designer](https://getsoundly.com/). The licensing terms of the [Soundly EULA](https://getsoundly.com/assets/Soundly-EULA.pdf) must be observed.
 
-- [Chapter-03.mp3](../src/voices/Chapter-03.mp3)
+- [Chapter-03.mp3](../src/voices/synthetic-voice/Chapter-03.mp3)
 
 Voice Designer Settings:
 Presets: Audiobook Reader
@@ -344,7 +344,7 @@ At the end (0:01:58;27), blank backround: [background.png](../src/assets/backgro
 License:
 The spoken text was created using [Soundly Voice Designer](https://getsoundly.com/). The licensing terms of the [Soundly EULA](https://getsoundly.com/assets/Soundly-EULA.pdf) must be observed.
 
-- [Chapter-04.mp3](../src/voices/Chapter-04.mp3)
+- [Chapter-04.mp3](../src/voices/synthetic-voice/Chapter-04.mp3)
 
 Voice Designer Settings:
 Presets: Audiobook Reader
@@ -529,7 +529,7 @@ At the start (0:01:58;27 - 0:01:58;01), blank backround: [background.png](../src
 License:
 The spoken text was created using [Soundly Voice Designer](https://getsoundly.com/). The licensing terms of the [Soundly EULA](https://getsoundly.com/assets/Soundly-EULA.pdf) must be observed.
 
-- [Chapter-05.mp3](../src/voices/Chapter-05.mp3)
+- [Chapter-05.mp3](../src/voices/synthetic-voice/Chapter-05.mp3)
 
 Voice Designer Settings:
 Presets: Audiobook Reader
@@ -680,7 +680,7 @@ Chapter marker: 0:03:02;22
 License:
 The spoken text was created using [Soundly Voice Designer](https://getsoundly.com/). The licensing terms of the [Soundly EULA](https://getsoundly.com/assets/Soundly-EULA.pdf) must be observed.
 
-- [Chapter-06.mp3](../src/voices/Chapter-06.mp3)
+- [Chapter-06.mp3](../src/voices/synthetic-voice/Chapter-06.mp3)
 
 Voice Designer Settings:
 Presets: Audiobook Reader
@@ -816,7 +816,7 @@ Caption marker: 0:03:27;25
 License:
 The spoken text was created using [Soundly Voice Designer](https://getsoundly.com/). The licensing terms of the [Soundly EULA](https://getsoundly.com/assets/Soundly-EULA.pdf) must be observed.
 
-- [Chapter-07.mp3](../src/voices/Chapter-07.mp3)
+- [Chapter-07.mp3](../src/voices/synthetic-voice/Chapter-07.mp3)
 
 Voice Designer Settings:
 Presets: Audiobook Reader
@@ -920,7 +920,7 @@ Caption marker: 0:04:07;05
 License:
 The spoken text was created using [Soundly Voice Designer](https://getsoundly.com/). The licensing terms of the [Soundly EULA](https://getsoundly.com/assets/Soundly-EULA.pdf) must be observed.
 
-- [Chapter-08.mp3](../src/voices/Chapter-08.mp3)
+- [Chapter-08.mp3](../src/voices/synthetic-voice/Chapter-08.mp3)
 
 Voice Designer Settings:
 Presets: Audiobook Reader
