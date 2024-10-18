@@ -130,7 +130,17 @@ In dieser Lektion werden wir uns die Grundlagen ansehen, damit du ein gutes Vers
 
 ### Lernziele
 
-Folgende Themen werden wir in dieser Lektion behandeln. Wir schauen uns an, was WordPress ist. Lass uns erkunden, was ein Content Management System ist. Gemeinsam sehen wir uns Beispiele dafür an, welche Arten von Webseiten wir mit WordPress erstellen können. Wir klären gemeinsam, was Open Source bedeutet. Zum Schluss werfen wir zusammen einen kurzen Blick auf Themes und Plugins.
+Folgende Themen werden wir in dieser Lektion behandeln.
+
+Wir schauen uns an, was WordPress ist.
+
+Lass uns erkunden, was ein Content Management System ist.
+
+Gemeinsam sehen wir uns Beispiele dafür an, welche Arten von Webseiten wir mit WordPress erstellen können.
+
+Wir klären gemeinsam, was Open Source bedeutet.
+
+Zum Schluss werfen wir zusammen einen kurzen Blick auf Themes und Plugins.
 
 ### Was ist WordPress?
 
@@ -148,27 +158,51 @@ Aber zunächst einmal, WordPress ist ein CMS, also ein Content Management System
 
 Kurz gesagt, es ist ein kostenloses Tool, das dir ermöglicht, deine eigene Website oder deinen Blog zu erstellen, zu bearbeiten und zu verwalten. Ganz ohne Programmierkenntnisse.
 
-Egal, ob du eine private Webseite erstellen möchtest, einen umfassenden Blog planst oder Produkte und Dienstleistungen weltweit verkaufen willst. WordPress bietet die perfekte Plattform, um deine Ziele zu verwirklichen und deine Inhalte mit der Welt zu teilen.
+Egal, ob du eine private Webseite erstellen möchtest,
+
+einen umfassenden Blog planst
+
+oder Produkte und Dienstleistungen weltweit verkaufen willst.
+
+WordPress bietet die perfekte Plattform, um deine Ziele zu verwirklichen und deine Inhalte mit der Welt zu teilen.
 
 Wusstest du, dass über 40% aller Websites weltweit mit WordPress erstellt wurden?
 
-Du kannst dir also sicher sein, dass WordPress eine sehr zuverlässige, sichere und nachhaltige Plattform ist.
+Du kannst dir also sicher sein, dass WordPress eine sehr zuverlässige,
+
+sichere
+
+und nachhaltige Plattform ist.
 
 ### Beispiele für WordPress-Websites
 
 Lass uns ein paar Beispiele ansehen, um zu sehen, welche Arten von Websites mit WordPress erstellt wurden.
 
-Als erstes haben wir die Art Gallery of Ballarat, eine Galerie in Australien. Sie haben eine umfangreiche Sammlung von Kunstwerken, regelmäßige Ausstellungen und zudem Schmuck, Geschenke und Accessoires zu verkaufen.
+Als erstes haben wir die Art Gallery of Ballarat, eine Galerie in Australien.
 
-Das nächste Beispiel ist die Website eines Installationsunternehmens aus Kapstadt. Dort kannst du dich über die Dienstleistungen informieren, Erfahrungsberichte lesen und herausfinden, wo sich das Unternehmen befindet und wie du es kontaktieren kannst.
+Sie haben eine umfangreiche Sammlung von Kunstwerken,
 
-Das dritte Beispiel ist ein Food-Blog namens Minimalist Baker, auf dem du einfache Rezepte findest, Küchenutensilien kaufen und mehr über Backen und Kochen lernen kannst.
+regelmäßige Ausstellungen und zudem Schmuck, Geschenke und Accessoires zu verkaufen.
 
-Das letzte Beispiel ist eine Website namens MSO Around the World. Es ist ein Luxus-Reiseblog, vollgepackt mit Reisetipps, Guides und vielem mehr.
+Das nächste Beispiel ist die Website eines Installationsunternehmens aus Kapstadt.
+
+Dort kannst du dich über die Dienstleistungen informieren,
+
+Erfahrungsberichte lesen und herausfinden, wo sich das Unternehmen befindet und wie du es kontaktieren kannst.
+
+Das dritte Beispiel ist ein Food-Blog namens Minimalist Baker, auf dem du einfache Rezepte findest,
+
+Küchenutensilien kaufen und mehr über Backen und Kochen lernen kannst.
+
+Das letzte Beispiel ist eine Website namens MSO Around the World.
+
+Es ist ein Luxus-Reiseblog, vollgepackt mit Reisetipps, Guides und vielem mehr.
 
 ### WordPress ist Open Source
 
-Ein weiterer wichtiger Punkt, WordPress ist Open Source. Das heißt, es ist eine kostenlose Software, die jeder herunterladen und nutzen kann.
+Ein weiterer wichtiger Punkt, WordPress ist Open Source.
+
+Das heißt, es ist eine kostenlose Software, die jeder herunterladen und nutzen kann.
 
 Das bedeutet auch, dass jeder am Code oder in anderen Bereichen von WordPress mitarbeiten kann, um es zu verbessern.
 
@@ -180,12 +214,24 @@ Zwei wichtige Dinge solltest du im Blick haben, wenn du deine WordPress-Seite er
 
 Du benötigst ein Theme, das das Design und die Wirkung deiner Website bestimmt. Es stehen dir tausende von kostenlosen und Premium-Themes zur Auswahl.
 
-Außerdem kannst du mit WordPress Plugins installieren, um deiner Website zusätzliche Funktionen hinzuzufügen. Plugins sind nützlich, wenn du Produkte verkaufen, die Sicherheit oder Geschwindigkeit deiner Website verbessern oder Formulare hinzufügen möchtest. Denke daran, dass die hier vorgestellten Themes und Plug-ins nur Beispiele sind.
+Außerdem kannst du mit WordPress Plugins installieren, um deiner Website zusätzliche Funktionen hinzuzufügen.
+
+Plugins sind nützlich, wenn du Produkte verkaufen, die Sicherheit oder Geschwindigkeit deiner Website verbessern oder Formulare hinzufügen möchtest. 
+
+Denke daran, dass die hier vorgestellten Themes und Plug-ins nur Beispiele sind.
 
 ### Zusammenfassung und Ausblick
 
-Zusammenfassend lässt sich sagen, mit WordPress kannst du ganz ohne technische Vorkenntnisse eine Website erstellen. Es bietet viele Funktionen, ist kostenlos und lässt sich individuell anpassen. Perfekt für jeden Einsatzzweck.
+Zusammenfassend lässt sich sagen, mit WordPress kannst du ganz ohne technische Vorkenntnisse eine Website erstellen.
 
-Du fragst dich jetzt sicher, wie du ganz einfach deine Webseite mit WordPress erstellst und ins Internet bringst, damit sie jeder sehen kann. Auch dafür haben wir eine Lösung für dich.
+Es bietet viele Funktionen, ist kostenlos und lässt sich individuell anpassen. Perfekt für jeden Einsatzzweck.
 
-Auf unserer Seite learn.wordpress.org findest du ein umfassendes Angebot, das dir das und vieles mehr Schritt für Schritt erklärt. Also, fang einfach an und mach dich zum WordPress-Profi. Wir vom Schulungsteam von WordPress wünschen dir viel Erfolg und freuen uns darauf, dich auf deinem Weg zu begleiten.
+Du fragst dich jetzt sicher, wie du ganz einfach deine Webseite mit WordPress erstellst und ins Internet bringst, damit sie jeder sehen kann.
+
+Auch dafür haben wir eine Lösung für dich.
+
+Auf unserer Seite learn.wordpress.org findest du ein umfassendes Angebot, das dir das und vieles mehr Schritt für Schritt erklärt.
+
+Also, fang einfach an und mach dich zum WordPress-Profi.
+
+Wir vom Schulungsteam von WordPress wünschen dir viel Erfolg und freuen uns darauf, dich auf deinem Weg zu begleiten.
