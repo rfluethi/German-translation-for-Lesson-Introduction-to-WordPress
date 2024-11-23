@@ -8,14 +8,42 @@ The timecodes are given in the Audio Timecode Format (ATF) "hours:minutes:second
 
 ## Chapters
 
-- ATF = (00:00:00.000) VTF = (0:00:00;00) Chapter 01: Einführung in WordPress / *Introduction to WordPress*
-- ATF = (00:00:18.433) VTF = (0:00:18;22) Chapter 02: Lernziele / *Learning objectives*
-- ATF = (00:00:43.440) VTF = (0:00:42;20) Chapter 03: Was ist WordPress? / *What is WordPress?*
-- ATF = (00:01:11.564) VTF = (0:01:11;16) Chapter 04: WordPress als Content-Management-System (CMS) / *WordPress as a Content Management System (CMS)*
-- ATF = (00:01:58.935) VTF = (0:01:59;01) Chapter 05: Beispiele für WordPress-Websites / *Examples of WordPress Websites*
-- ATF = (00:03:03.655) VTF = (0:03:02;22) Chapter 06: WordPress ist Open Source / *WordPress is Open Source*
-- ATF = (00:03:27.849) VTF = (0:03:27;25) Chapter 07: Themes and Plugins / *Themes and Plugins*
-- ATF = (00:04:07.020) VTF = (0:04:07;05) Chapter 08: Zusammenfassung und Ausblick / *Summary and Outro*
+- Chapter 01: Einführung in WordPress / *Introduction to WordPress*
+- Chapter 02: Lernziele / *Learning objectives*
+- Chapter 03: Was ist WordPress? / *What is WordPress?*
+- Chapter 04: WordPress als Content-Management-System (CMS) / *WordPress as a Content Management System (CMS)*
+- Chapter 05: Beispiele für WordPress-Websites / *Examples of WordPress Websites*
+- Chapter 06: WordPress ist Open Source / *WordPress is Open Source*
+- Chapter 07: Themes und Plugins / *Themes and Plugins*
+- Chapter 08: Zusammenfassung und Ausblick / *Summary and Outro*
+
+| ATF           | VTF           | Kapitel                                      |
+|---------------|---------------|----------------------------------------------|
+| 00:00:00.000  | 00:00:00;00   | Einführung in WordPress                      |
+| 00:00:18.400  | 00:00:18;12   | Lernziele                                    |
+| 00:00:44.233  | 00:00:44;07   | Was ist WordPress?                           |
+| 00:01:12.200  | 00:01:12;06   | WordPress als Content-Management-System (CMS)|
+| 00:02:00.733  | 00:02:00;22   | Beispiele für WordPress-Websites             |
+| 00:03:05.100  | 00:03:05;03   | WordPress ist Open Source                    |
+| 00:03:29.166  | 00:03:29;05   | Themes und Plugins                           |
+| 00:04:09.100  | 00:04:09;03   | Zusammenfassung und Ausblick                 |
+
+## Voiceover:
+
+### Bis zur Version 02-05
+Die Voiceover-Stimme wurde mit dem **[Soundly Voice Designer](https://getsoundly.com/)** erstellt.
+
+- **Lizenz:**  
+  Der gesprochene Text unterliegt den Lizenzbestimmungen der **[Soundly EULA](https://getsoundly.com/assets/Soundly-EULA.pdf)**. Diese müssen eingehalten werden.
+
+- **Voice Designer Einstellungen:**  
+  - **Preset:** Audiobook Reader  
+  - **Sprache:** German (Germany)  
+  - **Stimme:** Lukas B.
+
+### Ab Version 02-05
+Ab dieser Version wird die Voiceover-Stimme von **[Benjamin Zekavica](https://profiles.wordpress.org/benjamin_zekavica/)** gesprochen.
+
 
 ## Additional material
 
@@ -35,21 +63,9 @@ Further information about the Thumbnail Generator can be found on the [Video Thu
 
 ## Chapter 01: Einführung in WordPress / *Introduction to WordPress*
 
-> Duration: 0:00:00;00 - 0:00:18;17
+> Duration: 0:00:00;00 - 0:00:18;12
 
 Chapter marker: 0:00:00;00
-
-**Voiceover:**
-
-License:
-The spoken text was created using [Soundly Voice Designer](https://getsoundly.com/). The licensing terms of the [Soundly EULA](https://getsoundly.com/assets/Soundly-EULA.pdf) must be observed.
-
-- [Chapter-01.mp3](../src/voices/synthetic-voice/Chapter-01.mp3)
-
-Voice Designer Settings:
-Presets: Audiobook Reader
-Language: German (Germany)
-Voice: Lukas B.
 
 ### Scene 01-01 Start
 
@@ -88,17 +104,6 @@ Transition at the end of the clip with a "Fade" effect.
 
 Chapter marker: 0:00:18;22
 
-**Voiceover:**
-
-License:
-The spoken text was created using [Soundly Voice Designer](https://getsoundly.com/). The licensing terms of the [Soundly EULA](https://getsoundly.com/assets/Soundly-EULA.pdf) must be observed.
-
-- [Chapter-02.mp3](../src/voices/synthetic-voice/Chapter-02.mp3)
-
-Voice Designer Settings:
-Presets: Audiobook Reader
-Language: German (Germany)
-Voice: Lukas B.
 
 ### Scene 02-01 Learning outcomes
 
@@ -142,19 +147,7 @@ At the end, blank frame `#D8DEE3`: 0:00:42;20
 
 > Duration: 0:00:42;20 - 0:01:11;11
 
-Chapter marker: 0:00:42;20
-
-**Voiceover:**
-
-License:
-The spoken text was created using [Soundly Voice Designer](https://getsoundly.com/). The licensing terms of the [Soundly EULA](https://getsoundly.com/assets/Soundly-EULA.pdf) must be observed.
-
-- [Chapter-03.mp3](../src/voices/synthetic-voice/Chapter-03.mp3)
-
-Voice Designer Settings:
-Presets: Audiobook Reader
-Language: German (Germany)
-Voice: Lukas B.
+Chapter marker: 0:00:44;07
 
 ### Scene 03-01 Define WordPress
 
@@ -180,7 +173,7 @@ Transition at the start of the clip with a "Fade" effect.
 - 0:00:49;08 - 0:00:49;23
 
 Transition at the end of the clip with a "Card Flip" effect.
-- 0:00:48;23 - 0:00:49;08
+- 0:00:52;23 - 0:00:53;08
 
 At the end, blank frame `#D8DEE3`: 0:00:53;08
 
@@ -307,7 +300,7 @@ The transition to and from this page occurs with a "Slide Right" effect, which i
 > Duration: 0:01:05;27 - 0:01:11;11
 
 Transition at the start of the clip with a "Slide Right" effect.
-- 0:01:03;16 - 0:01:06;12
+- 0:01:05;27 - 0:01:06;12
 
 At the end, blank frame `#D8DEE3`: 0:01:11;12
 
@@ -333,23 +326,11 @@ The transition to this page is achieved with a "Slide Right" effect, making a di
 
 > Duration: 0:01:11;13 - 0:01:58;26
 
-Chapter marker: 0:01:11;16
+Chapter marker: 0:01:12;05
 
 At the start, blank frame `#D8DEE3`: 0:01:11;12
 
 At the end (0:01:58;27), blank backround: [background.png](../src/assets/background.webp)
-
-**Voiceover:**
-
-License:
-The spoken text was created using [Soundly Voice Designer](https://getsoundly.com/). The licensing terms of the [Soundly EULA](https://getsoundly.com/assets/Soundly-EULA.pdf) must be observed.
-
-- [Chapter-04.mp3](../src/voices/synthetic-voice/Chapter-04.mp3)
-
-Voice Designer Settings:
-Presets: Audiobook Reader
-Language: German (Germany)
-Voice: Lukas B.
 
 ### Scene 04-01 CMS
 
@@ -412,12 +393,12 @@ This animation was adapted from the original English version.
 
 ### Scene 04-04 Business to Entrepreneur
 
-> Duration: 0:01:29;10 - 0:01:45;06
+> Duration: 0:01:29;10 - 0:01:46;20
 
 At the start (0:01:29;09), blank backround: [background.png](../src/assets/background.webp)
 
 Transition at the end of the clip with a "Card Flip" effect.
-- 0:01:44;22 - 0:01:45;07
+- 0:01:46;00 - 0:01:46;20
 
 At the end, blank frame `#D8DEE3`: 0:01:45;07
 
@@ -462,17 +443,15 @@ WordPress Front:
 
 ### Scene 04-05 Our journey
 
-> Duration: 0:01:45;08 - 0:01:50;16
+> Duration: 0:01:46;21 - 0:01:51;21
 
-At the start, blank frame `#D8DEE3`: 0:01:45;07
+At the start, blank frame `#D8DEE3`: 0:01:46;20
 
 Transition at the start of the clip with a "Card Flip" effect.
-- 0:01:45;07 - 0:01:45;22
+- 0:01:46;20 - 0:01:47;05
 
 Transition at the end of the clip with a "Fade" effect.
-- 0:01:50;01 - 0:01:50;15
-
-At the end (0:01:50;08 - 0:01:50;18), blank backround: [background.png](../src/assets/background.webp)
+- 0:01:51;14 - 0:01:51;21
 
 A screenshot of the page "WordPress and the Journey to 40% of the Internet" to illustrate the popularity of WordPress.
 
@@ -486,14 +465,14 @@ A screenshot of the page "WordPress and the Journey to 40% of the Internet" to i
 
 ### Scene 04-06 Reliable
 
-> Duration: 0:01:50;19 - 0:01:58;26
+> Duration: 0:01:51;21 - 0:02:00;10
 
-At the start (0:01:50;08 - 0:01:50;18), blank backround: [background.png](../src/assets/background.webp)
+At the start (0:01:51;28 - 0:01:52;01), blank backround: [background.png](../src/assets/background.webp)
 
 Transition at the start of the clip with a "Fade" effect.
-- 0:01:50;18 - 0:01:50;20
+- 0:01:51;21 - 0:01:51;28
 
-At the end (0:01:58;27 - 0:01:59;01), blank backround: [background.png](../src/assets/background.webp)
+At the end 0:02:00;10, blank backround: [background.png](../src/assets/background.webp)
 
 **Image License:**
 
@@ -512,37 +491,23 @@ At the end (0:01:58;27 - 0:01:59;01), blank backround: [background.png](../src/a
 
 **Assets Audio:**
 
-- 0:01:55;04 [Check-Writing.wav](../src/audio/Check-Writing.wav)
-- 0:01:56;05 [Check-Writing.wav](../src/audio/Check-Writing.wav)
-- 0:01:57;05 [Check-Writing.wav](../src/audio/Check-Writing.wav)
+- 0:01:55;23 [Check-Writing.wav](../src/audio/Check-Writing.wav)
+- 0:01:57;10 [Check-Writing.wav](../src/audio/Check-Writing.wav)
+- 0:01:58;04 [Check-Writing.wav](../src/audio/Check-Writing.wav)
 
 ## Chapter 05: Beispiele für WordPress-Websites / *Examples of WordPress Websites*
 
-> Duration: 0:01:59;02 - 0:03:02;22
+> Duration: 0:02:00;10 - 0:03:03;20
 
-Chapter marker: 0:01:59;01
+Chapter marker: 0:02:00;22
 
-At the start (0:01:58;27 - 0:01:58;01), blank backround: [background.png](../src/assets/background.webp)
-
-**Voiceover:**
-
-License:
-The spoken text was created using [Soundly Voice Designer](https://getsoundly.com/). The licensing terms of the [Soundly EULA](https://getsoundly.com/assets/Soundly-EULA.pdf) must be observed.
-
-- [Chapter-05.mp3](../src/voices/synthetic-voice/Chapter-05.mp3)
-
-Voice Designer Settings:
-Presets: Audiobook Reader
-Language: German (Germany)
-Voice: Lukas B.
+At the start 0:02:00;13, blank backround: [background.png](../src/assets/background.webp)
 
 ### Scene 05-01 Examples
 
-> Duration: 0:01:59;02 - 0:02:06;14
+> Duration: 0:02:00;10 - 0:02:07;29
 
-At the start (0:01:58;27 - 0:01:58;01), blank backround: [background.png](../src/assets/background.webp)
-
-At the end (0:02:06;16 - 0:01:06;23), blank backround: [background.png](../src/assets/background.webp)
+At the start 0:02:00;14 blank backround: [background.png](../src/assets/background.webp)
 
 **Image License:**
 
@@ -555,14 +520,14 @@ At the end (0:02:06;16 - 0:01:06;23), blank backround: [background.png](../src/a
 
 ### Scene 05-02 Ballarat
 
-> Duration: 0:02:06;24 - 0:02:21;14
+> Duration: 0:02:07;29 - 0:02:22;28
 
-At the start (0:02:06;16 - 0:01:06;23), blank backround: [background.png](../src/assets/background.webp)
+At the start (0:02:07;29 - 0:02:08;06), blank backround: [background.png](../src/assets/background.webp)
 
 Transition at the end of the clip with a "Card Flip" effect.
-- 0:02:21;00 - 0:02:21;15
+- 0:02:22;13 - 0:02:22;28
 
-At the end, blank frame `#D8DEE3`: 0:02:21;15
+At the end, blank frame `#D8DEE3`: 0:02:22;28
 
 The page was selected from the [Showcase](https://wordpress.org/showcase/art-gallery-of-ballarat/) on wordpress.org, and the screenshots were taken from the official website of the Art Gallery of Ballarat.
 
@@ -583,22 +548,22 @@ The page was selected from the [Showcase](https://wordpress.org/showcase/art-gal
 
 **Assets Audio:**
 
-- 0:02:08;26 [Mouse-Click-quiet.wav](../src/audio/Mouse-Click-quiet.wav)
-- 0:02:12;05 [Mouse-Click-quiet.wav](../src/audio/Mouse-Click-quiet.wav)
+- 0:02:09;16 [Mouse-Click-quiet.wav](../src/audio/Mouse-Click-quiet.wav)
+- 0:02:13;12 [Mouse-Click-quiet.wav](../src/audio/Mouse-Click-quiet.wav)
 
 ### Scene 05-03 Absolute Plumbing
 
-> Duration: 0:02:21;16 - 0:02:37;15
+> Duration: 0:02:22;28 - 0:02:38;29
 
-At the start, blank frame `#D8DEE3`: 0:02:21;15
+At the start, blank frame `#D8DEE3`: 0:02:22;28
 
 Transition at the start of the clip with a "Card Flip" effect.
-- 0:02:21;15 - 0:02:22;00
+- 0:02:22;28 - 0:02:23;13
 
 Transition at the end of the clip with a "Card Flip" effect.
-- 0:02:37;01 - 0:02:37;16
+- 0:02:38;14 - 0:02:38;29
 
-At the end, blank frame `#D8DEE3`: 0:02:37;16
+At the end, blank frame `#D8DEE3`: 0:02:38;29
 
 The page was adapted from the original English learning module.
 
@@ -615,19 +580,19 @@ The page was adapted from the original English learning module.
 - [Scene-05-03-Absolute-Plumbing-elements-offer.webp](../src/assets/Scene-05-03-Absolute-Plumbing-elements-offer.webp)
 - [Scene-05-03-Absolute-Plumbing-elements-touch.webp](../src/assets/Scene-05-03-Absolute-Plumbing-elements-touch.webp)
 
-### Scene 05-04 Minimalist baker
+### Scene 05-04 Minimalist Baker
 
-> Duration: 0:02:37;17 - 0:02:50;08
+> Duration: 0:02:38;29 - 0:02:51;22
 
-At the start, blank frame `#D8DEE3`: 0:02:37;16
+At the start, blank frame `#D8DEE3`: 0:02:38;29
 
 Transition at the start of the clip with a "Card Flip" effect.
-- 0:02:37;16 - 0:02:38;01
+- 0:02:38;29 - 0:02:39;14
 
 Transition at the end of the clip with a "Card Flip" effect.
-- 0:02:49;24 - 0:02:50;09
+- 0:02:51;07 - 0:02:51;22
 
-At the end, blank frame `#D8DEE3`: 0:02:50;09
+At the end, blank frame `#D8DEE3`: 0:02:51;22
 
 The page was adapted from the original English learning module.
 
@@ -645,15 +610,15 @@ The page was adapted from the original English learning module.
 
 ### Scene 05-05 Mrs. O
 
-> Duration: 0:02:50;10 - 0:03:02;21
+> Duration: 0:02:51;22 - 0:03:03;20
 
-At the start, blank frame `#D8DEE3`: 0:02:50;09
+At the start, blank frame `#D8DEE3`: 0:02:51;22
 
 Transition at the start of the clip with a "Card Flip" effect.
-- 0:02:50;09 - 0:02:50;24
+- 0:02:51;22 - 0:02:52;07
 
 Transition at the end of the clip with a "Fade" effect.
-- 0:03:01;22 - 0:03:02;22
+- 0:03:03;05 - 0:03:03;20
 
 The page was adapted from the original English learning module.
 
@@ -671,31 +636,19 @@ The page was adapted from the original English learning module.
 
 ## Chapter 06: WordPress ist Open Source / *WordPress is open source*
 
-> Duration: 0:03:02;23 - 0:03:27;21
+> Duration: 0:03:02;20 - 0:03:29;06
 
-Chapter marker: 0:03:02;22
-
-**Voiceover:**
-
-License:
-The spoken text was created using [Soundly Voice Designer](https://getsoundly.com/). The licensing terms of the [Soundly EULA](https://getsoundly.com/assets/Soundly-EULA.pdf) must be observed.
-
-- [Chapter-06.mp3](../src/voices/synthetic-voice/Chapter-06.mp3)
-
-Voice Designer Settings:
-Presets: Audiobook Reader
-Language: German (Germany)
-Voice: Lukas B.
+Chapter marker: 0:03:05;03
 
 ### Scene 06-01 Open Source
 
-> Duration: 0:03:02;22 - 0:03:08;13
+> Duration: 0:03:02;20 - 0:03:09;25
 
 Transition at the start of the clip with a "Fade" effect.
-- 0:03:02;09 - 0:03:03;24
+- 0:03:02;20 - 0:03:04;05
 
 Transition at the end of the clip with a "Fade" effect.
-- 0:03:07;27 - 0:03:08;27
+- 0:03:09;10 - 0:03:09;25
 
 The transition to the next page is done with a "Fade" effect, therefore a direct cut at this point is not feasible.
 
@@ -710,15 +663,15 @@ The transition to the next page is done with a "Fade" effect, therefore a direct
 
 ### Scene 06-02 Free
 
-> Duration: 0:03:08;13 - 0:03:13;14
+> Duration: 0:03:09;25 - 0:03:14;28
 
 Transition at the start of the clip with a "Fade" effect.
-- 0:03:07;27 - 0:03:08;27
+- 0:03:09;25 - 0:03:10;10
 
 Transition at the end of the clip with a "Fade" effect.
-- 0:03:13;13 - 0:03:08;15
+- 0:03:14;26 - 0:03:14;27
 
-At the end (0:03:13;15), blank backround: [background.png](../src/assets/background.webp)
+At the end (0:03:14;27 - 0:03:15;00), blank backround: [background.png](../src/assets/background.webp)
 
 **Image License:**
 
@@ -735,20 +688,20 @@ At the end (0:03:13;15), blank backround: [background.png](../src/assets/backgro
 
 **Assets Audio:**
 
-- 0:03:09;06 [Stamp-swish.wav](../src/audio/Stamp-swish.wav)
-- 0:03:09;15 [Stamp-Post-Office.wav](../src/audio/Stamp-Post-Office.wav)
+- 0:03:10;20 [Stamp-swish.wav](../src/audio/Stamp-swish.wav)
+- 0:03:10;28 [Stamp-Post-Office.wav](../src/audio/Stamp-Post-Office.wav)
 
 ### Scene 06-03 Get WordPress
 
-> Duration: 0:03:13;16 - 0:03:17;12
+> Duration: 0:03:15;00 - 0:03:18;26
 
 Transition at the start of the clip with a "Fade" effect.
-- 0:03:13;16 - 0:03:13;19
+- 0:03:15;00 - 0:03:15;02
 
 Transition at the end of the clip with a "Card Flip" effect.
-- 0:03:16;28 - 0:03:17;12
+- 0:03:18;11 - 0:03:18;26
 
-At the end, blank frame `#D8DEE3`: 0:03:17;13
+At the end, blank frame `#D8DEE3`: 0:03:18;26
 
 **Image License:**
 
@@ -762,12 +715,12 @@ At the end, blank frame `#D8DEE3`: 0:03:17;13
 
 ### Scene 06-04 Make WordPress Menu
 
-> Duration: 0:03:17;14 - 0:03:21;07
+> Duration: 0:03:18;26 - 0:03:22;21
 
-At the start, blank frame `#D8DEE3`: 0:03:17;13
+At the start, blank frame `#D8DEE3`: 0:03:18;26
 
 Transition at the start of the clip with a "Fade" effect.
-- 0:03:17;13 - 0:03:17;28
+- 0:03:18;26 - 0:03:19;11
 
 
 **Image License:**
@@ -783,16 +736,14 @@ Transition at the start of the clip with a "Fade" effect.
 
 **Assets Audio:**
 
-- 0:03:19;27 [Mouse-Click-quiet.wav](../src/audio/Mouse-Click-quiet.wav)
-- 0:03:20;28 [Mouse-Click-quiet.wav](../src/audio/Mouse-Click-quiet.wav)
+- 0:03:21;07 [Mouse-Click-quiet.wav](../src/audio/Mouse-Click-quiet.wav)
+- 0:03:22;08 [Mouse-Click-quiet.wav](../src/audio/Mouse-Click-quiet.wav)
 
 ### Scene 06-05 Make WordPress
 
-> Duration: 0:03:21;08 - 0:03:27;20
+> Duration: 0:03:22;21 - 0:03:29;44
 
-At the start, blank frame `#D8DEE3`: 0:03:17;13
-
-At the end, blank frame `#D8DEE3`: 0:03:27;21
+At the end, blank frame `#D8DEE3`: 0:03:29;04
 
 **Image License:**
 
@@ -807,35 +758,23 @@ At the end, blank frame `#D8DEE3`: 0:03:27;21
 
 ## Chapter 07: Themes and Plugins / *Themes and Plugins*
 
-> Duration: 0:03:27;22 - 0:04:07;05
+> Duration: 0:03:29;04 - 0:04:08;18
 
-Caption marker: 0:03:27;25
-
-**Voiceover:**
-
-License:
-The spoken text was created using [Soundly Voice Designer](https://getsoundly.com/). The licensing terms of the [Soundly EULA](https://getsoundly.com/assets/Soundly-EULA.pdf) must be observed.
-
-- [Chapter-07.mp3](../src/voices/synthetic-voice/Chapter-07.mp3)
-
-Voice Designer Settings:
-Presets: Audiobook Reader
-Language: German (Germany)
-Voice: Lukas B.
+Caption marker: 0:03:29;05
 
 ### Scene 07-01 Themes | Plugins
 
-> Duration: 0:03:27;22 - 0:03:34;05
+> Duration: 0:03:29;04 - 0:03:35;19
 
-At the start, blank frame `#D8DEE3`: 0:03:17;21
+At the start, blank frame `#D8DEE3`: 0:03:29;04
 
 Transition at the start of the clip with a "Fade" effect.
-- 0:03:27;21 - 0:03:27;22
+- 0:03:30;23 - 0:03:30;10
 
 Transition at the end of the clip with a "Card Flip" effect.
-- 0:03:33;21 - 0:03:34;05
+- 0:03:35;04 - 0:03:35;19
 
-At the start, blank frame `#D8DEE3`: 0:03:34;06
+At the start, blank frame `#D8DEE3`: 0:03:29;04
 
 **Image License:**
 
@@ -848,17 +787,17 @@ At the start, blank frame `#D8DEE3`: 0:03:34;06
 
 ### Scene 07-02 Themes
 
-> Duration: 0:03:34;07 - 0:03:44;07
+> Duration: 0:03:35;19 - 0:03:45;21
 
-At the start, blank frame `#D8DEE3`: 0:03:34;06
+At the start, blank frame `#D8DEE3`: 0:03:35;19
 
 Transition at the start of the clip with a "Card Flip" effect.
-- 0:03:34;07 - 0:03:34;21
+- 0:03:35;19 - 0:03:36;04
 
 Transition at the end of the clip with a "Card Flip" effect.
-- 0:03:43;23 - 0:03:44;07
+- 0:03:45;06 - 0:03:45;21
 
-At the end, blank frame `#D8DEE3`: 0:03:44;08
+At the end, blank frame `#D8DEE3`: 0:03:45;21
 
 **Image License:**
 
@@ -876,22 +815,22 @@ At the end, blank frame `#D8DEE3`: 0:03:44;08
 
 **Assets Audio:**
 
-- 0:03:35;22 [Mouse-Click-quiet.wav](../src/audio/Mouse-Click-quiet.wav)
-- 0:03:37;15 [Mouse-Click-quiet.wav](../src/audio/Mouse-Click-quiet.wav)
-- 0:03:39;15 [Mouse-Click-quiet.wav](../src/audio/Mouse-Click-quiet.wav)
-- 0:03:41;16 [Mouse-Click-quiet.wav](../src/audio/Mouse-Click-quiet.wav)
+- 0:03:37;06 [Mouse-Click-quiet.wav](../src/audio/Mouse-Click-quiet.wav)
+- 0:03:38;28 [Mouse-Click-quiet.wav](../src/audio/Mouse-Click-quiet.wav)
+- 0:03:41;02 [Mouse-Click-quiet.wav](../src/audio/Mouse-Click-quiet.wav)
+- 0:03:43;00 [Mouse-Click-quiet.wav](../src/audio/Mouse-Click-quiet.wav)
 
 ### Scene 07-03 Plugins
 
-> Duration: 0:03:44;09 - 0:04:07;05
+> Duration: 0:03:45;21 - 0:04:08;18
 
-At the start, blank frame `#D8DEE3`: 0:03:44;08
+At the start, blank frame `#D8DEE3`: 0:03:45;21
 
 Transition at the start of the clip with a "Card Flip" effect.
-- 0:03:44;09 - 0:03:44;23
+- 0:03:45;21 - 0:03:46;06
 
 Transition at the end of the clip with a "Fold Shut" effect.
-- 0:04:06;20 - 0:04:07;05
+- 0:04:08;03 - 0:04:08;18
 
 During the transition to the next page, a "Fold Shut" effect is used, making a direct cut at this point not feasible.
 
@@ -907,37 +846,22 @@ During the transition to the next page, a "Fold Shut" effect is used, making a d
 
 **Assets Audio:**
 
-- 0:04:06;23 [Summary.wav](../src/audio/Summary.wav)
+- 0:04:08;09 [Summary.wav](../src/audio/Summary.wav)
 
 ## Chapter 08: Zusammenfassung und Ausblick / *Summary and Outro*
 
-> Duration: 0:04:07;05 - 0:04:51;27
+> Duration: 0:04:08;18 - 0:05:00;00
 
-Caption marker: 0:04:07;05
-
-**Voiceover:**
-
-License:
-The spoken text was created using [Soundly Voice Designer](https://getsoundly.com/). The licensing terms of the [Soundly EULA](https://getsoundly.com/assets/Soundly-EULA.pdf) must be observed.
-
-- [Chapter-08.mp3](../src/voices/synthetic-voice/Chapter-08.mp3)
-
-Voice Designer Settings:
-Presets: Audiobook Reader
-Language: German (Germany)
-Voice: Lukas B.
+Caption marker: 0:04:09;03
 
 ### Scene 08-01 Summary
 
-> Duration: 0:04:07;05 - 0:04:21;23
+> Duration: 0:04:08;17 - 0:04:24;13
 
 Transition at the start of the clip with a "Fold Shut" effect.
-- 0:04:07;05 - 0:04:07;20
+- 0:04:08;17 - 0:04:09;04
 
-Transition at the end of the clip with a "Fold Shut" effect.
-- 0:04:06;20 - 0:04:07;05
-
-At the end (0:04:21;24 - 0:04:21;26), blank backround: [background.png](../src/assets/background.webp)
+At the end 0:04:24;14 blank backround: [background.png](../src/assets/background.webp)
 
 The transition to this side takes place with a “fold shut” effect, so that a direct cut is not possible here.
 
@@ -952,13 +876,10 @@ The transition to this side takes place with a “fold shut” effect, so that a
 
 ### Scene 08-02 Question
 
-> Duration: 0:04:21;27 - 0:04:33;00
-
-Transition at the start of the clip with a "Fade" effect.
-- 0:04:21;27 - 0:04:21;28
+> Duration: 0:04:24;13 - 0:04:35;17
 
 Transition at the end of the clip with a "Fade" effect.
-- 0:04:32;25 - 0:04:33;00
+- 0:04:35;12 - 0:04:35;17
 
 A "Fade" effect is used to transition to the next page, making a direct cut at this point not feasible.
 
@@ -974,10 +895,10 @@ A "Fade" effect is used to transition to the next page, making a direct cut at t
 
 ### Scene 08-03 Learn.WordPress.org Click
 
-> Duration: 0:04:33;01 - 0:04:37;11
+> Duration: 0:04:35;18 - 0:04:39;28
 
 Transition at the start of the clip with a "Fade" effect.
-- 0:04:33;00 - 0:04:33;05
+- 0:04:35;18 - 0:04:35;22
 
 The transition to this page is achieved with a "Fade" effect, making a direct cut impossible here.
 
@@ -993,14 +914,14 @@ The transition to this page is achieved with a "Fade" effect, making a direct cu
 
 **Assets Audio:**
 
-- 0:04:36;07 [Mouse-Click-loud.wav](../src/audio/Mouse-Click-loud.wav)
+- 0:04:39;00 [Mouse-Click-loud.wav](../src/audio/Mouse-Click-loud.wav)
 
 ### Scene 08-03 Learn.WordPress.org Website
 
 > Duration: 0:04:37;12 - 0:04:45;14
 
 Transition at the end of the clip with a "Puzzle" effect.
-- 0:04:44;29 - 0:04:45;14
+- 0:04:39;29 - 0:04:48;01
 
 The transition to the next page uses a "Puzzle" effect, which is why a direct cut at this point is not possible.
 
@@ -1014,14 +935,14 @@ The transition to the next page uses a "Puzzle" effect, which is why a direct cu
 
 **Assets Audio:**
 
-- 0:04:44;25 [Puzzle.wav](../src/audio/Puzzle.wav)
+- 0:04:47;11 [Puzzle.wav](../src/audio/Puzzle.wav)
 
 ### Scene 08-04 Outro
 
-> Duration: 0:04:45;14 - 0:04:51;27
+> Duration: 0:04:48;10 - 0:05:00;00
 
 Transition at the start of the clip with a "Puzzle" effect.
-- 0:04:45;14 - 0:04:46;29
+- 0:04:48;10 - 0:04:48;16
 
 A "puzzle" effect is used to transition to this page, making a direct cut impossible at this point.
 
@@ -1038,4 +959,4 @@ A "puzzle" effect is used to transition to this page, making a direct cut imposs
 
 **Assets Audio:**
 
-- 0:04:47;07 [Learn-WordPress-org-brush.wav](../src/audio/Learn-WordPress-org-brush.wav)
+- 0:04:49;29 [Learn-WordPress-org-brush.wav](../src/audio/Learn-WordPress-org-brush.wav)

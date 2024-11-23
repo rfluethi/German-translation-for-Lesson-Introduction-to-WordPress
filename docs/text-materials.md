@@ -51,7 +51,7 @@ Nutze das Potenzial von WordPress. Erfahre, was WordPress ist, sieh dir Beispiel
 - Chapter 04: WordPress als Content-Management-System (CMS) / *WordPress as a Content Management System (CMS)*
 - Chapter 05: Beispiele für WordPress-Websites / *Examples of WordPress Websites*
 - Chapter 06: WordPress ist Open Source / *WordPress is Open Source*
-- Chapter 07: Themes and Plugins / *Themes and Plugins*
+- Chapter 07: Themes und Plugins / *Themes and Plugins*
 - Chapter 08: Zusammenfassung und Ausblick / *Summary and Outro*
 
 ## Transcript (EN)
