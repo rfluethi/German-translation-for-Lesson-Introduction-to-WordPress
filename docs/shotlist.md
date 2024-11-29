@@ -100,19 +100,19 @@ Transition at the end of the clip with a "Fade" effect.
 
 ## Chapter 02: Lernziele / *Learning objectives*
 
-> Duration: 0:00:17;29 - 0:00:42;18
+> Duration: 0:00:17;29 - 0:00:43;07
 
 Chapter marker: 0:00:18;22
 
 
 ### Scene 02-01 Learning outcomes
 
-> Duration: 0:00:17;29 - 0:00:42;19
+> Duration: 0:00:17;29 - 0:00:43;07
 
 Transition at the start of the clip with a "Fade" effect.
 - 0:00:17;29 - 0:00:18;14
 
-At the end, blank frame `#D8DEE3`: 0:00:42;20
+At the end, blank frame `#D8DEE3`: 0:00:43;07
 
 **Image License:**
 
@@ -145,13 +145,13 @@ At the end, blank frame `#D8DEE3`: 0:00:42;20
 
 ## Chapter 03: Was ist WordPress? / *What is WordPress?*
 
-> Duration: 0:00:42;20 - 0:01:11;11
+> Duration: 0:00:43;07 - 0:01:11;11
 
 Chapter marker: 0:00:44;07
 
 ### Scene 03-01 Define WordPress
 
-> Duration: 0:00:42;21 - 0:00:49;07
+> Duration: 0:00:43;07 - 0:00:49;07
 
 Transition at the end of the clip with a "Fade" effect.
 - 0:00:48;23 - 0:00:49;08
